@@ -11,17 +11,25 @@ The project is live at: https://hemanthraja7.github.io/Landing-Page_tailwind/
 To run this project locally, follow these steps:
 
 Install Dependencies
+
 Install all necessary node modules:
+
 Copy code:
+
 npm install
 
 Compile Tailwind CSS
+
 Run the following command in the terminal to compile the Tailwind CSS:
+
 Copy code:
+
 npx tailwindcss -i ./style.css -o ./output.css --watch
 
 Launch with Live Server
+
 Open the project through Live Server (make sure to install the Live Server extension in your code editor).
 
 ## Future Plans
+
 With this foundational knowledge, I hope to undertake more projects and improve my Tailwind CSS skills.
